@@ -1,0 +1,9 @@
+kullanicilar.txt dosyasýný açýn ve içine spamlamakta kullanacaðýnýz hesaplarýn kullanýcý adlarýný girin.
+sifreler.txt dosyasýný açýn ve içine spamlamakta kullanacaðýnýz hesaplarýn þifresini girin.
+Eðer kullanicilar.txt dosyasýnýn ilk satýrýný X hesabýnýn kullanýcý adýný yazdýysanýz sifreler dosyasýnýn ilk satýrýna da 
+X hesabýnýn þifresini yazýn.
+Program dosyalarýnýn adýný deðiþtirmeyin.
+Program denenmiþtir ve 2020 Mayýs ayý itibari ile güncel olarak çalýþmaktadýr.
+Gereksinimler:
+Python 3.6 ve üzeri.
+Selenium modülü
