@@ -1,6 +1,7 @@
 # instagramspammerTurkmen
 Instagram spam aracı
-gereksiniler:
+-----------------------------------------------------------
+gereksinimler:
 python 3.6 ve üzeri
 chrome tarayıcısı
 request modülü
